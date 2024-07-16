@@ -1,1 +1,1 @@
-# python-project-for-data-science-analysis
+# python-project-for-data-science/analysis
